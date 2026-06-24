@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I don't know what to write here because I'm just someone learning how to use technology in the AI ​​era.
+
 <!--
 **nguyenhcminh/nguyenhcminh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
